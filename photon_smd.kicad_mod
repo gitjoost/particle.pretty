@@ -1,4 +1,4 @@
-(module MyFootprints:PHOTON_SMD (layer F.Cu) (tedit 591A4766)
+(module photon:photon_smd (layer F.Cu) (tedit 591A4766)
   (fp_text reference U2 (at -16.9 -11.5 180) (layer F.SilkS)
     (effects (font (size 1.2 1.2) (thickness 0.15)))
   )
